@@ -1,7 +1,6 @@
 body{
   background: ligthorange;
   font-family: Calibri;
-
 }
 .menu{
   background-color: khaki; 
@@ -23,15 +22,14 @@ a:hover{
 }
 .site-title{
   text-align: center;
+  font-style: italic;
+  font-family: optima;
+  font-size: 50px;
   color: chocolate;
-  font-family: courier;
-  
 }
 .site-subtitle{
   color: peru;
-  text-align: center;
+  text-align: right;
   font-style: italic;
-  font-size: 15px;
-  
-  
+  font-size: 15px; 
 }
