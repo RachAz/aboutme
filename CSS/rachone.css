@@ -1,0 +1,37 @@
+body{
+  background: ligthorange;
+  font-family: Calibri;
+
+}
+.menu{
+  background-color: khaki; 
+
+}
+.menu ul{
+  display: flex;
+  justify-content: space-around;
+}
+.menu li{
+  list-style: none;
+}
+a{
+  text-decoration: none;
+  color: maroon;
+}
+a:hover{
+  text-decoration: underline;
+}
+.site-title{
+  text-align: center;
+  color: chocolate;
+  font-family: courier;
+  
+}
+.site-subtitle{
+  color: peru;
+  text-align: center;
+  font-style: italic;
+  font-size: 15px;
+  
+  
+}
