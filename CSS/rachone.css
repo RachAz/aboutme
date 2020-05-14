@@ -199,13 +199,13 @@ figcaption{
   }
 }
 
-.contacts b{
+.contacts a{
   color: sienna;
   font-size: 3em;
   transition: text-shadow 1s;
   }
 
-.contacts b:hover{
+.contacts a:hover{
   color: maroon;
   text-shadow: 0px 10px 10px maroon;
 }
