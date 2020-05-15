@@ -147,9 +147,6 @@ figcaption{
   text-transform: none;
 }
 
-.box-aboutme li{
-  list-style: none;
-}
 .box-aboutme {
   background-color: sienna;
   background-size: auto 100vh; 
